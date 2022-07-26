@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "game 1",
+    "Description": "this is game 1",
+    "IconUrl": "https://raw.githubusercontent.com/flashsouth/apps/main/sprites/i1.PNG"
+  },
+
+  {
+    "Name": "game 2",
+    "Description": "this is game 2",
+    "IconUrl": "https://raw.githubusercontent.com/flashsouth/apps/main/sprites/i2.PNG"
+  },
+
+  {
+    "Name": "game 3",
+    "Description": "this is game 3",
+    "IconUrl": "https://raw.githubusercontent.com/flashsouth/apps/main/sprites/i3.PNG"
+  }
+]
