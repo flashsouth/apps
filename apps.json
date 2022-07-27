@@ -3,20 +3,23 @@
     "Name": "game 1",
     "Description": "this is game 1",
     "IconUrl": "https://raw.githubusercontent.com/flashsouth/apps/main/sprites/i1.PNG",
-    "StoreUrl": "https://play.google.com/store/apps/details?id=com.beermuuda.lucasubway"
+    "StoreUrl": "https://play.google.com/store/apps/details?id=com.beermuuda.lucasubway",
+    "FakeDownloads": "100000"
   },
 
   {
     "Name": "game 2",
     "Description": "this is game 2",
     "IconUrl": "https://raw.githubusercontent.com/flashsouth/apps/main/sprites/i2.PNG",
-    "StoreUrl": "https://play.google.com/store/apps/details?id=com.beermuuda.minonssw"
+    "StoreUrl": "https://play.google.com/store/apps/details?id=com.beermuuda.minonssw",
+    "FakeDownloads": "1M"
   },
 
   {
     "Name": "game 3",
     "Description": "this is game 3",
     "IconUrl": "https://raw.githubusercontent.com/flashsouth/apps/main/sprites/i3.PNG",
-    "StoreUrl": "https://play.google.com/store/apps/details?id=com.beermuudaa.subway.turtelsninja"
+    "StoreUrl": "https://play.google.com/store/apps/details?id=com.beermuudaa.subway.turtelsninja",
+    "FakeDownloads": "1K"
   }
 ]
